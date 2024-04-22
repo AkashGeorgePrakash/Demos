@@ -1,3 +1,3 @@
 # Demos
-This is my First Git Repository
+This is my First Git Repository.
 Author - Akash G Prakash
